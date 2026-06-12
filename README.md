@@ -24,4 +24,4 @@ SUMIF, AVERAGEIF, COUNTIF, PivotTables, Data Visualization,
 Dashboard Design, Business Analysis
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard-screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png)
