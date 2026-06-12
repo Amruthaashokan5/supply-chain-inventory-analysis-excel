@@ -22,3 +22,6 @@ Microsoft Excel (Online) - Formulas, PivotTables, Conditional Formatting, Charts
 ## Skills Demonstrated
 SUMIF, AVERAGEIF, COUNTIF, PivotTables, Data Visualization, 
 Dashboard Design, Business Analysis
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Dashboard-screenshot.png)
